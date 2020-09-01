@@ -7,4 +7,4 @@ This is a growing collection of flat icons for Windows 10.
 
 ### Samples
 
-![Citra](https://github.com/Julibe/Flat-Icons-Library/blob/master/Emulators/Citra.jpg?raw=true&s=50% | width=100px)
+![Citra](https://github.com/Julibe/Flat-Icons-Library/blob/master/Emulators/Citra.jpg?raw=true&s=200)
