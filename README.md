@@ -22,3 +22,6 @@ This is a growing collection of flat icons for Windows 10.
 		</td>
 	</tr>
 </table>
+
+
+https://github.com/Julibe/Flat-Icons-Library
