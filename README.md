@@ -6,4 +6,8 @@ This is a growing collection of flat icons for Windows 10.
    - The icons are organized in folders according to their category.
 
 ### Samples
+
+<img src="https://raw.githubusercontent.com/Julibe/Flat-Icons-Library/master/Coding/github.jpg" width="250px">
+<img src="https://raw.githubusercontent.com/Julibe/Flat-Icons-Library/master/Media/VLC.jpg" width="250px">
 <img src="https://raw.githubusercontent.com/Julibe/Flat-Icons-Library/master/Emulators/Citra.jpg" width="250px">
+<img src="https://raw.githubusercontent.com/Julibe/Flat-Icons-Library/master/Games/BattleNet.jpg" width="250px">
